@@ -1,4 +1,18 @@
 {
+    "name": "janthomas89/komoot-api-client",
+    "type": "library",
+    "description": "Simple, unofficial Komoot API client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Potencier",
+            "email": "fabien@symfony.com"
+        },
+        {
+            "name": "Symfony Community",
+            "homepage": "https://symfony.com/contributors"
+        }
+    ],
     "autoload": {
         "psr-4": {"Janthomas89\\KomootApiClient\\": "src/"}
     },
