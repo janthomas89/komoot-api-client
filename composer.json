@@ -5,12 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
-        },
-        {
-            "name": "Symfony Community",
-            "homepage": "https://symfony.com/contributors"
+            "name": "Jan Thomas",
+            "email": "jan.thomas@rwth-aachen.de"
         }
     ],
     "autoload": {
