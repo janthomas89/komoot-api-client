@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {"Janthomas89\\KomootApiClient\\": "src/"}
+    },
+    "require": {
+        "symfony/browser-kit": "^5.1",
+        "symfony/http-client": "^5.1",
+        "symfony/mime": "^5.1",
+        "symfony/css-selector": "^5.1"
+    },
+    "require-dev": {
+        "symfony/dotenv": "^5.1"
+    }
+}
