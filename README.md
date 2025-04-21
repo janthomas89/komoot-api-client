@@ -1,4 +1,6 @@
 # Komoot API Client
+> [!IMPORTANT]  
+> **This repository is not maintained anymore**
 
 Simple, unofficial Komoot API client that can only do two things:
 1) List a user's latest tour ids 
